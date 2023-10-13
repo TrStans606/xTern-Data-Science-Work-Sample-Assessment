@@ -21,5 +21,5 @@ python3 foodXOpenMapApi.py
 
 ## Data anayalsis 
 
-Since I was unable to get the API to work I wanted to show off my python data anayslsis skills so I premade a CSV of food trucks in Indy called "foodTrucks.csv" to read into pandas.
+Since I was unable to get the API to work I wanted to show off my python data anayslsis skills so I premade a CSV of food trucks in Indy called "foodTrucks.csv" to read into pandas. Some basic anaylsis of the data shows that most of the food trucks serve either taco or Mexican cuisine, and two of the food trucks will be closed on 10/14/2023.
 

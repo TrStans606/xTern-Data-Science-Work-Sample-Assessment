@@ -27,5 +27,5 @@ Since I was unable to get the API to work I wanted to show off my python data an
 
 Then I used geopy to find the latitude and longitude cordinates for each address. I put them into an geopandas dataframe which is plotted against a .shp file for the state of Indiana. I could not figure out how to zoom into just Indianapolis.
 
-![alt text]()
+![alt text](https://github.com/TrStans606/xTern-Data-Science-Work-Sample-Assessment/blob/main/foodTruckMap.png)
 

@@ -1,0 +1,8 @@
+Time,Name,Address,Crusine,Travel Distance,Travel Time,Transportation Type
+10:30 AM,ClusterTruck,"729 N Pennsylvania St, Indianapolis, IN 46204",American,1.2 mi,5 min,car
+11:00 AM,Taqueria Mi Costa,"1430 W Washington St, Indianapolis, IN 46222",Tacos,2.5 mi,7 min,car
+12:00 PM,big Jerry Indy food truck,"8522 Madison Ave, Indianapolis, IN 46227",Meat,13.8 mi,19 min,car
+2:30 PM,El Viejon Food Truck,"3612 W 30th St, Indianapolis, IN 46222",Mexican,20.7 mi,28 min,car
+5:00 PM,Pico de Gallo Food Truck,"3014 Lafayette Rd, Indianapolis, IN 46222",56 ft,2 min,walk
+6:00 PM,FELIX TACOS TRUCK,"3145 W Washington St, Indianapolis, IN 46222",3.6 mi,9 min,car
+8:30 PM,The Night Owl Food Truck,"S Meridian St, Indianapolis, IN 46225",4.5, mi,11 min,car

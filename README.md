@@ -33,7 +33,4 @@ Then I used geopy to find the latitude and longitude cordinates for each address
 
 ![alt text](https://github.com/TrStans606/xTern-Data-Science-Work-Sample-Assessment/blob/main/foodTruckMap.png)
 
-To create the plan I relied on Google Maps. Running on the assumption we would be starting from IUPUI campus. This plan is in the "plan.csv" file.
-
-
-
+To create the plan I relied on Google Maps. Running on the assumption we would be starting from IUPUI campus. This plan is in the "plan.csv" file. There is also an image version of the plan named "plan.png". The plan will in total go from 10:30 AM to 8:30 PM and will require 1 hour and 26 miles of driving across 46 miles. Because all of the food trucks had very far apart opening times I based the plan on the sucession of opening rather then closeness unless two trucks were opened at the same time and then I determined it based on closeness. The final food truck visted was The Night Owl Food Truck as it was open the latest.

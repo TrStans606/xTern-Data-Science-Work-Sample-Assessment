@@ -54,5 +54,3 @@ fig, ax = plt.subplots(figsize=(7,7))
 indyShape.plot(ax=ax)
 
 geoLocations.plot(ax=ax, color='red')
-
-plt.savefig('foodTruckMap.png')

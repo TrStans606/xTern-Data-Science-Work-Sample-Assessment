@@ -29,7 +29,7 @@ python3 foodXDataAna.py
 ```
 Some basic anaylsis of the data shows that most of the food trucks serve either taco or Mexican cuisine, and two of the food trucks will be closed on 10/14. Using a mean function we find that the average star rating of 4.2333 stars out of 5. With the lowest rating being 1 and the highest being 5. The next order of bussiness is to drop the closed food trucks from the data frame as there is no point in including them in our plan. 
 
-Then I used geopy to find the latitude and longitude cordinates for each address. I put them into an geopandas dataframe which is plotted against a .shp file for the state of Indiana. I could not figure out how to zoom into just Indianapolis.
+Then I used geopy to find the latitude and longitude cordinates for each address. I put them into an geopandas dataframe which is plotted against a .shp file for the state of Indiana. I could not figure out how to zoom into just Indianapolis. This map is included below and in the repo as "foodTruckMap.png".
 
 ![alt text](https://github.com/TrStans606/xTern-Data-Science-Work-Sample-Assessment/blob/main/foodTruckMap.png)
 
